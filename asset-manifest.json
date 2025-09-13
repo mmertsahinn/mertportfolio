@@ -1,0 +1,30 @@
+```json
+
+{
+
+"files": {
+
+"main.css": "/static/css/main.c43fa4f0.css",
+
+"main.js": "/static/js/main.fd565267.js",
+
+"index.html": "/index.html",
+
+"main.c43fa4f0.css.map": "/static/css/main.c43fa4f0.css.map",
+
+"main.fd565267.js.map": "/static/js/main.fd565267.js.map"
+
+},
+
+"entrypoints": [
+
+"static/css/main.c43fa4f0.css",
+
+"static/js/main.fd565267.js"
+
+]
+
+}
+
+```
+
